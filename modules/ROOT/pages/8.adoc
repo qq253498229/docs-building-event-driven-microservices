@@ -103,7 +103,7 @@ image:image3.png[image,width=40,height=46]
 图 8-3 展示了图 8-1 所示架构的编制模式版本。
 
 .图 8-3：简单的事件驱动编制工作流
-image::image142.png[image,width=322,height=149]
+image::image142.png[]
 
 编制器保持对服务 A、服务 B 和服务 C 发出的事件的物化，并基于工作者微服务的返回结果更新其内部状态，如表 8-1 所示。
 
