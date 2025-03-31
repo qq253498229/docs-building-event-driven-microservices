@@ -12,3 +12,4 @@ asciidoc:
     toc-title: 目录
     toclevels: 6
     sectnumlevels: 0@
+    page-pagination: '@'
