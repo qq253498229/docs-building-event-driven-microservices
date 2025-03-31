@@ -1,0 +1,15 @@
+site:
+  title: 微服务与事件驱动架构
+  start_page: docs-building-event-driven-microservices::index.adoc
+content:
+  sources:
+    - url: .
+      branches: [HEAD]
+ui:
+  bundle:
+    url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/master/raw/build/ui-bundle.zip?job=bundle-stable
+    snapshot: true
+  supplemental_files: ui-bundle
+
+output:
+  dir: ./docs

@@ -1,0 +1,5 @@
+= 关于作者
+
+亚当 • 贝勒马尔（Adam Bellemare），现任 Confluent 公司微服务架构师，曾任 Shopify 数据平台高级工程师。2014~2020 年作为高级工程师任职于 Flipp。还在 BlackBerry 担任过软件开发工程师，在那里他首次接触了事件驱动系统。
+
+他的专长包括 DevOps （Kafka 、Spark 、Mesos 、Kubernetes 、Solr 、Elasticsearch 、HBase 和ZooKeeper 集群，以及程序的构建、伸缩、监控）、技术领导力（帮助企业组织其数据通信层、集成现有系统、开发新系统并专注于交付产品）、软件开发（使用 Beam、Flink、Spark 和 Kafka Streams 库在Java 和 Scala 环境下构建事件驱动型微服务）以及数据工程（重塑从用户设备收集行为数据并在组织内共享的方式）。

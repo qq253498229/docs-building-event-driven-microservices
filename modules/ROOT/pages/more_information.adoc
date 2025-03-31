@@ -1,0 +1,5 @@
+= 更多信息
+
+扫描下方二维码，即可获取电子书相关信息及读者群通道入口。
+
+image::image7.png[image,width=213,height=213]
